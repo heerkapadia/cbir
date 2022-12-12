@@ -1,2 +1,2 @@
 # cbir
-Input:
+
